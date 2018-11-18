@@ -12,9 +12,12 @@ import axios from 'axios'
 const url = 'https://www.googleapis.com/drive/v3'
 const uploadUrl = 'https://www.googleapis.com/upload/drive/v3'
 const boundaryString = 'foo_bar_baz'
-const __androidClientId = "471068649632-tnh026g4p2l93if9g7p3vp5la0ujjbai.apps.googleusercontent.com";
-const __iosClientId = "471068649632-mb8od6d5hdan2nbu3da9fp3030uc28v7.apps.googleusercontent.com";
-const __webClientId = "471068649632-ntlr8otf08vdi1fgdgnv1lbftopsfrbe.apps.googleusercontent.com";
+const __androidClientId = "145027294735-9ap91gcto3k9lh05khn9s2he5h9q53ma.apps.googleusercontent.com";
+// const __androidClientId = "471068649632-tnh026g4p2l93if9g7p3vp5la0ujjbai.apps.googleusercontent.com";
+const __iosClientId = "145027294735-6g2076uorogpth72aones7ajsre6b0es.apps.googleusercontent.com";
+// const __iosClientId = "471068649632-mb8od6d5hdan2nbu3da9fp3030uc28v7.apps.googleusercontent.com";
+const __webClientId = "145027294735-2ba1sj5kmhhgpif1agpk43mj7rkbhg97.apps.googleusercontent.com";
+// const __webClientId = "471068649632-ntlr8otf08vdi1fgdgnv1lbftopsfrbe.apps.googleusercontent.com";
 const BACKUP_FILE_ID = 'mumandbabyfileid0009';
 
 const REFRESH_TOKEN = '@REFRESH_TOKEN';

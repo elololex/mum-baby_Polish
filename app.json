@@ -2,7 +2,7 @@
   "expo": {
     "name": "Mum & Baby",
     "description": "This project is really great.",
-    "slug": "mumandbabyexpo",
+    "slug": "mumandbabypolish",
     "privacy": "unlisted",
     "sdkVersion": "30.0.0",
     "platforms": [
@@ -25,12 +25,12 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.imagineear.mumandbaby",
+      "bundleIdentifier": "com.imagineear.mumandbabypolish",
       "publishBundlePath": "ios/mum---baby/Supporting/shell-app.bundle",
       "publishManifestPath": "ios/mum---baby/Supporting/shell-app-manifest.json",
       "config": {
         "googleSignIn": {
-          "reservedClientId": "com.googleusercontent.apps.471068649632-mb8od6d5hdan2nbu3da9fp3030uc28v7"
+          "reservedClientId": "com.googleusercontent.apps.145027294735-6g2076uorogpth72aones7ajsre6b0es"
         }
       }
     },
@@ -41,13 +41,13 @@
     },
     "scheme": "exp3d7bf441182c49b8b5bcd2304e26110f",
     "android": {
-      "package": "com.imagineear.mumandbaby.android",
+      "package": "com.imagineear.mumandbabypolish",
       "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
       "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json",
       "config": {
         "googleSignIn": {
-          "apiKey": "AIzaSyDWDXAGP-6IIjfll0W4iK6R0KMYsqnfNz0",
-          "certificateHash": "6D:4A:F6:8B:CC:6B:31:CF:C1:CC:C6:D5:45:2B:AD:3D:90:F8:E0:0C"
+          "apiKey": "AIzaSyCXc8CWWaqQhMaOzZOPAhBrB86JkXFY_Kk",
+          "certificateHash": "06:C0:20:FD:FF:6A:A0:11:63:CB:CE:F0:54:BB:5E:4A:98:F0:57:72"
         }
       }
     }
