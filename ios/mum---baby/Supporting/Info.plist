@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.imagineear.mumandbaby</string>
+	<string>com.imagineear.mumandbabypolish</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -24,7 +24,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>exp3d7bf441182c49b8b5bcd2304e26110f</string>
-				<string>com.googleusercontent.apps.471068649632-mb8od6d5hdan2nbu3da9fp3030uc28v7</string>
+				<string>com.googleusercontent.apps.145027294735-6g2076uorogpth72aones7ajsre6b0es</string>
 			</array>
 		</dict>
 		<dict>
@@ -32,7 +32,7 @@
 			<string>OAuthRedirect</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.imagineear.mumandbaby</string>
+				<string>com.imagineear.mumandbabypolish</string>
 			</array>
 		</dict>
 	</array>

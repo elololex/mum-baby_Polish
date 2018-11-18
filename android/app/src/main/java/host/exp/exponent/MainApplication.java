@@ -42,7 +42,7 @@ public class MainApplication extends ExpoApplication implements ShareApplication
 
   @Override
   public String getFileProviderAuthority() {
-    return "com.imagineear.mumandbaby.android.provider";
+    return "com.imagineear.mumandbabypolish.provider";
   }
 
   @Override

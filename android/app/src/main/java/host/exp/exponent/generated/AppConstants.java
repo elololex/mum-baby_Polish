@@ -12,7 +12,7 @@ import host.exp.exponent.Constants;
 public class AppConstants {
 
   public static final String VERSION_NAME = "2.8.1";
-  public static String INITIAL_URL = "exp://exp.host/@mumbaby/mumandbabyexpo";
+  public static String INITIAL_URL = "exp://exp.host/@mumbaby/mumandbabypolish";
   public static final boolean IS_DETACHED = true;
   public static final String SHELL_APP_SCHEME = "exp3d7bf441182c49b8b5bcd2304e26110f";
   public static final String RELEASE_CHANNEL = "default";
@@ -34,10 +34,11 @@ public class AppConstants {
         
         
         
+        
         // ADD EMBEDDED RESPONSES HERE
         // START EMBEDDED RESPONSES
         embeddedResponses.add(new Constants.EmbeddedResponse("https://exp.host/@mumbaby/mumandbabypolish/index.exp", "assets://shell-app-manifest.json", "application/json"));
-        embeddedResponses.add(new Constants.EmbeddedResponse("https://d1wp6m56sqw74a.cloudfront.net/%40mumbaby%2Fmumandbabypolish%2F3.0.1%2Fcaeffd81b51e3f8c8c80e787a66f82b4-30.0.0-android.js", "assets://shell-app.bundle", "application/javascript"));
+        embeddedResponses.add(new Constants.EmbeddedResponse("https://d1wp6m56sqw74a.cloudfront.net/%40mumbaby%2Fmumandbabypolish%2F3.0.1%2F82be93b1f729c5572447b9fe47b3c4b1-30.0.0-android.js", "assets://shell-app.bundle", "application/javascript"));
         // END EMBEDDED RESPONSES
     EMBEDDED_RESPONSES = embeddedResponses;
   }
